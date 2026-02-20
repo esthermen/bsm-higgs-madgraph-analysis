@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.out
+*.aux
+*.toc
+*.gz
+.DS_Store
